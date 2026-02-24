@@ -63,6 +63,3 @@ The platform enables users to interact with research papers through semantic sea
 - **Prompt Engineering**
 - **Retrieval-Augmented Generation (RAG)**
 
----
-
-## 📂 Project Structure
