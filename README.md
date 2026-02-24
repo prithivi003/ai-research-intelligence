@@ -5,7 +5,7 @@ The platform enables users to interact with research papers through semantic sea
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### 🔹 1. Global AI Research Chatbot
 - Persistent vector database of AI research papers
